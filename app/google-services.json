@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924645690740",
+    "project_id": "buysystem-98900",
+    "storage_bucket": "buysystem-98900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924645690740:android:129df6e441eaa14e67f021",
+        "android_client_info": {
+          "package_name": "com.example.buysystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYUPFWSPxBK1ykbq1XdOJOx6S_R9E4dcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
